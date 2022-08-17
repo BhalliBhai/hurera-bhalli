@@ -51,7 +51,19 @@
 }
 
 @media screen and (max-width: 480px){
+  .footer{
+    margin-top: 0;
+  }
   .f-content{
-    transform: scale(.5);
+    transform: scale(.6);
+  }
+  .f-icons{
+    padding-top: 0;
+  }
+  .email a{
+    font-size: 30px;
+  }
+  .wave{
+    min-height: 55vh;
   }
 }

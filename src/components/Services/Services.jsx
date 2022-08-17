@@ -72,7 +72,7 @@ const Services = () => {
             emoji={Humble}
             heading={"UI/UX"}
             detail={
-              "Dsigned many web and mobile applcations"
+              "Dsigned many web applications and mobile applcations"
             }
             color="rgba(252, 166, 31, 0.45)"
           />
