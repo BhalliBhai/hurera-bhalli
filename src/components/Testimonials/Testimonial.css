@@ -41,6 +41,7 @@
     border: 7px solid var(--blueCard);
     box-shadow: var(--boxShadow);
     border-radius: 20px;
+    
 }
 .testimonial>img{
     width: 6rem;
@@ -77,11 +78,4 @@
         height: 70px;
     }
 
-
-
-
-    
-    .swiper {
-        margin-bottom: 100px !important;
-    }
   }
